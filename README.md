@@ -24,6 +24,7 @@ LMB - shoot
 -Procedural generation
 -More enemies
 -Powerups
+-Fixings bugs created by new features
 
    _____                 __             ________                       
   /     \ _____    _____/  |______     /  _____/_____    _____   ____  
